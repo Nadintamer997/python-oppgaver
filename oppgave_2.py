@@ -1,4 +1,4 @@
-navn = Michael
+navn = "Michael"
 alder = 31
 
 pritn("Hei, jeg heter", navn)
